@@ -1,0 +1,398 @@
+{
+    "BRA": {
+        "region": "Americas",
+        "country": "Brazil",
+        "time_zones": [
+            -5,
+            -4,
+            -3,
+            -2
+        ]
+    },
+    "VNM": {
+        "region": "Asia & Oceania",
+        "country": "Viet Nam",
+        "time_zones": [
+            7
+        ]
+    },
+    "COL": {
+        "region": "Americas",
+        "country": "Colombia",
+        "time_zones": [
+            -5
+        ]
+    },
+    "IDN": {
+        "region": "Asia & Oceania",
+        "country": "Indonesia",
+        "time_zones": [
+            7,
+            8,
+            9
+        ]
+    },
+    "HND": {
+        "region": "Americas",
+        "country": "Honduras",
+        "time_zones": [
+            -6
+        ]
+    },
+    "UGA": {
+        "region": "Africa",
+        "country": "Uganda",
+        "time_zones": [
+            3
+        ]
+    },
+    "IND": {
+        "region": "Asia & Oceania",
+        "country": "India",
+        "time_zones": [
+            5.5
+        ]
+    },
+    "ETH": {
+        "region": "Africa",
+        "country": "Ethiopia",
+        "time_zones": [
+            3
+        ]
+    },
+    "PER": {
+        "region": "Americas",
+        "country": "Peru",
+        "time_zones": [
+            -5
+        ]
+    },
+    "GTM": {
+        "region": "Americas",
+        "country": "Guatemala",
+        "time_zones": [
+            -6
+        ]
+    },
+    "MEX": {
+        "region": "Americas",
+        "country": "Mexico",
+        "time_zones": [
+            -8,
+            -7,
+            -6,
+            -5
+        ]
+    },
+    "NIC": {
+        "region": "Americas",
+        "country": "Nicaragua",
+        "time_zones": [
+            -6
+        ]
+    },
+    "CIV": {
+        "region": "Africa",
+        "country": "Côte d'Ivoire",
+        "time_zones": [
+            0
+        ]
+    },
+    "CRI": {
+        "region": "Americas",
+        "country": "Costa Rica",
+        "time_zones": [
+            -6
+        ]
+    },
+    "TZA": {
+        "region": "Africa",
+        "country": "Tanzania",
+        "time_zones": [
+            3
+        ]
+    },
+    "KEN": {
+        "region": "Africa",
+        "country": "Kenya",
+        "time_zones": [
+            3
+        ]
+    },
+    "PNG": {
+        "region": "Asia & Oceania",
+        "country": "Papua New Guinea",
+        "time_zones": [
+            10,
+            11
+        ]
+    },
+    "ECU": {
+        "region": "Americas",
+        "country": "Ecuador",
+        "time_zones": [
+            -6,
+            -5
+        ]
+    },
+    "LAO": {
+        "region": "Asia & Oceania",
+        "country": "Lao People's Democratic Republic",
+        "time_zones": [
+            7
+        ]
+    },
+    "SLV": {
+        "region": "Americas",
+        "country": "El Salvador",
+        "time_zones": [
+            -6
+        ]
+    },
+    "RWA": {
+        "region": "Africa",
+        "country": "Rwanda",
+        "time_zones": [
+            2
+        ]
+    },
+    "BDI": {
+        "region": "Africa",
+        "country": "Burundi",
+        "time_zones": [
+            2
+        ]
+    },
+    "THA": {
+        "region": "Asia & Oceania",
+        "country": "Thailand",
+        "time_zones": [
+            7
+        ]
+    },
+    "CMR": {
+        "region": "Africa",
+        "country": "Cameroon",
+        "time_zones": [
+            1
+        ]
+    },
+    "COD": {
+        "region": "Africa",
+        "country": "Democratic Republic of Congo",
+        "time_zones": [
+            1,
+            2
+        ]
+    },
+    "GIN": {
+        "region": "Africa",
+        "country": "Guinea",
+        "time_zones": [
+            0
+        ]
+    },
+    "TLS": {
+        "region": "Asia & Oceania",
+        "country": "Timor-Leste",
+        "time_zones": [
+            9
+        ]
+    },
+    "PAN": {
+        "region": "Americas",
+        "country": "Panama",
+        "time_zones": [
+            -5
+        ]
+    },
+    "TGO": {
+        "region": "Africa",
+        "country": "Togo",
+        "time_zones": [
+            0
+        ]
+    },
+    "CAF": {
+        "region": "Africa",
+        "country": "Central African Republic",
+        "time_zones": [
+            1
+        ]
+    },
+    "SLE": {
+        "region": "Africa",
+        "country": "Sierra Leone",
+        "time_zones": [
+            0
+        ]
+    },
+    "YEM": {
+        "region": "Asia & Oceania",
+        "country": "Yemen",
+        "time_zones": [
+            3
+        ]
+    },
+    "DOM": {
+        "region": "Americas",
+        "country": "Dominican Republic",
+        "time_zones": [
+            -4
+        ]
+    },
+    "AGO": {
+        "region": "Africa",
+        "country": "Angola",
+        "time_zones": [
+            1
+        ]
+    },
+    "BOL": {
+        "region": "Americas",
+        "country": "Bolivia (Plurinational State of)",
+        "time_zones": [
+            -4
+        ]
+    },
+    "MWI": {
+        "region": "Africa",
+        "country": "Malawi",
+        "time_zones": [
+            2
+        ]
+    },
+    "ZMB": {
+        "region": "Africa",
+        "country": "Zambia",
+        "time_zones": [
+            2
+        ]
+    },
+    "CUB": {
+        "region": "Americas",
+        "country": "Cuba",
+        "time_zones": [
+            -5
+        ]
+    },
+    "JAM": {
+        "region": "Americas",
+        "country": "Jamaica",
+        "time_zones": [
+            -5
+        ]
+    },
+    "MDG": {
+        "region": "Africa",
+        "country": "Madagascar",
+        "time_zones": [
+            3
+        ]
+    },
+    "PHL": {
+        "region": "Asia & Oceania",
+        "country": "Philippines",
+        "time_zones": [
+            8
+        ]
+    },
+    "ZWE": {
+        "region": "Africa",
+        "country": "Zimbabwe",
+        "time_zones": [
+            2
+        ]
+    },
+    "GHA": {
+        "region": "Africa",
+        "country": "Ghana",
+        "time_zones": [
+            0
+        ]
+    },
+    "NGA": {
+        "region": "Africa",
+        "country": "Nigeria",
+        "time_zones": [
+            1
+        ]
+    },
+    "TTO": {
+        "region": "Americas",
+        "country": "Trinidad & Tobago",
+        "time_zones": [
+            -4
+        ]
+    },
+    "HTI": {
+        "region": "Americas",
+        "country": "Haiti",
+        "time_zones": [
+            -5
+        ]
+    },
+    "LKA": {
+        "region": "Asia & Oceania",
+        "country": "Sri Lanka",
+        "time_zones": [
+            5.5
+        ]
+    },
+    "LBR": {
+        "region": "Africa",
+        "country": "Liberia",
+        "time_zones": [
+            0
+        ]
+    },
+    "NPL": {
+        "region": "Asia & Oceania",
+        "country": "Nepal",
+        "time_zones": [
+            5.75
+        ]
+    },
+    "GUY": {
+        "region": "Americas",
+        "country": "Guyana",
+        "time_zones": [
+            -4
+        ]
+    },
+    "VEN": {
+        "region": "Americas",
+        "country": "Venezuela",
+        "time_zones": [
+            -4
+        ]
+    },
+    "PRY": {
+        "region": "Americas",
+        "country": "Paraguay",
+        "time_zones": [
+            -4
+        ]
+    },
+    "COG": {
+        "region": "Africa",
+        "country": "Congo",
+        "time_zones": [
+            1
+        ]
+    },
+    "GAB": {
+        "region": "Africa",
+        "country": "Gabon",
+        "time_zones": [
+            1
+        ]
+    },
+    "GNQ": {
+        "region": "Africa",
+        "country": "Equatorial Guinea",
+        "time_zones": [
+            1
+        ]
+    }
+}
