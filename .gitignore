@@ -10,7 +10,6 @@ __pycache__/
 data/db.json
 data/countries.json
 
-
 # Distribution / packaging
 .Python
 build/
