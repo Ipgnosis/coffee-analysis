@@ -7,175 +7,175 @@
         ]
     },
     "BEL": {
-        "region": "",
+        "region": "Europe",
         "country": "Belgium",
         "time_zones": [
             1
         ]
     },
     "BGR": {
-        "region": "",
+        "region": "Europe",
         "country": "Bulgaria",
         "time_zones": [
             2
         ]
     },
     "HRV": {
-        "region": "",
+        "region": "Europe",
         "country": "Croatia",
         "time_zones": [
             1
         ]
     },
     "CYP": {
-        "region": "",
+        "region": "Europe",
         "country": "Cyprus",
         "time_zones": [
             2
         ]
     },
     "CZE": {
-        "region": "",
+        "region": "Europe",
         "country": "Czechia",
         "time_zones": [
             1
         ]
     },
     "DNK": {
-        "region": "",
+        "region": "Europe",
         "country": "Denmark",
         "time_zones": [
             1
         ]
     },
     "EST": {
-        "region": "",
+        "region": "Europe",
         "country": "Estonia",
         "time_zones": [
             2
         ]
     },
     "FIN": {
-        "region": "",
+        "region": "Europe",
         "country": "Finland",
         "time_zones": [
             2
         ]
     },
     "FRA": {
-        "region": "",
+        "region": "Europe",
         "country": "France",
         "time_zones": [
             1
         ]
     },
     "DEU": {
-        "region": "",
+        "region": "Europe",
         "country": "Germany",
         "time_zones": [
             1
         ]
     },
     "GRC": {
-        "region": "",
+        "region": "Europe",
         "country": "Greece",
         "time_zones": [
             2
         ]
     },
     "HUN": {
-        "region": "",
+        "region": "Europe",
         "country": "Hungary",
         "time_zones": [
             1
         ]
     },
     "IRL": {
-        "region": "",
+        "region": "Europe",
         "country": "Ireland",
         "time_zones": [
             0
         ]
     },
     "ITA": {
-        "region": "",
+        "region": "Europe",
         "country": "Italy",
         "time_zones": [
             1
         ]
     },
     "JPN": {
-        "region": "",
+        "region": "Asia & Oceania",
         "country": "Japan",
         "time_zones": [
             9
         ]
     },
     "LVA": {
-        "region": "",
+        "region": "Europe",
         "country": "Latvia",
         "time_zones": [
             2
         ]
     },
     "LTU": {
-        "region": "",
+        "region": "Europe",
         "country": "Lithuania",
         "time_zones": [
             2
         ]
     },
     "LUX": {
-        "region": "",
+        "region": "Europe",
         "country": "Luxembourg",
         "time_zones": [
             1
         ]
     },
     "MLT": {
-        "region": "",
+        "region": "Europe",
         "country": "Malta",
         "time_zones": [
             1
         ]
     },
     "NLD": {
-        "region": "",
+        "region": "Europe",
         "country": "Netherlands",
         "time_zones": [
             1
         ]
     },
     "NOR": {
-        "region": "",
+        "region": "Europe",
         "country": "Norway",
         "time_zones": [
             1
         ]
     },
     "POL": {
-        "region": "",
+        "region": "Europe",
         "country": "Poland",
         "time_zones": [
             1
         ]
     },
     "PRT": {
-        "region": "",
+        "region": "Europe",
         "country": "Portugal",
         "time_zones": [
             0
         ]
     },
     "ROU": {
-        "region": "",
+        "region": "Europe",
         "country": "Romania",
         "time_zones": [
             2
         ]
     },
     "RUS": {
-        "region": "",
+        "region": "Europe",
         "country": "Russian Federation",
         "time_zones": [
             2,
@@ -192,21 +192,21 @@
         ]
     },
     "SVK": {
-        "region": "",
+        "region": "Europe",
         "country": "Slovakia",
         "time_zones": [
             1
         ]
     },
     "SVN": {
-        "region": "",
+        "region": "Europe",
         "country": "Slovenia",
         "time_zones": [
             1
         ]
     },
     "ESP": {
-        "region": "",
+        "region": "Europe",
         "country": "Spain",
         "time_zones": [
             0,
@@ -214,28 +214,28 @@
         ]
     },
     "SWE": {
-        "region": "",
+        "region": "Europe",
         "country": "Sweden",
         "time_zones": [
             1
         ]
     },
     "CHE": {
-        "region": "",
+        "region": "Europe",
         "country": "Switzerland",
         "time_zones": [
             1
         ]
     },
     "TUN": {
-        "region": "",
+        "region": "Africa & Middle East",
         "country": "Tunisia",
         "time_zones": [
             1
         ]
     },
     "GBR": {
-        "region": "",
+        "region": "Europe",
         "country": "United Kingdom",
         "time_zones": [
             0

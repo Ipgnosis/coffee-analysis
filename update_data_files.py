@@ -5,8 +5,8 @@ def timezone_to_float(tz_list):
 
     fl_list = []
     for tz in tz_list:
-        mins = 0
 
+        mins = 0
         sign = tz[3]
         hrs = int(tz[4:6])
         mins_str = tz[7:9]
@@ -36,10 +36,12 @@ def create_new_coffee_file(coffeef, countryType):
     new_file = {}
     for key, vals in coffeef.items():
         tempObj = {}
-        if (len(countryType) > 1) and (countryType[0] in vals['countryType']) and (countryType[1] in vals['countryType']):
+        if (len(vals['countryType']) > 1) and (countryType[0] in vals['countryType']) and (countryType[1] in vals['countryType']):
             tempObj['region'] = vals['region']
             tempObj['country'] = vals['country']
             tempObj['time_zones'] = timezone_to_float(vals['time_zone'])
+            #tempObj['time_zones'] = vals['time_zones']
+
             new_file[key] = tempObj
         '''
         elif (len(vals['countryType']) == 1) and (countryType[0] in vals['countryType']):
@@ -83,9 +85,10 @@ def main():
     #new_attributes_list = ['countryType']
 
     #new_countries_file = get_attributes(db_file['countries'], country_file, new_attributes_list)
+    countries_obj = db_file['countries']
 
-    prod_exp = create_new_coffee_file(country_file, pe_list)
-    imp_exp = create_new_coffee_file(country_file, ie_list)
+    prod_exp = create_new_coffee_file(countries_obj, pe_list)
+    imp_exp = create_new_coffee_file(countries_obj, ie_list)
     #importers = create_new_coffee_file(country_file, i_list)
 
     if (write_json_data(prod_exp_path, prod_exp)):
