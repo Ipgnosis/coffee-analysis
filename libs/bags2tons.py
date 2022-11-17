@@ -1,5 +1,4 @@
 # takes a number of bags of coffee and returns the metric tonnage as a number
-# adjusts the precision based on the order of magnitude of the result
 
 def bags2tonnes(bags):
 
